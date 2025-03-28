@@ -1,5 +1,4 @@
-# Tony_idcard
-Tony_idcard
+ 
 	['weapon'] = {
 		label = '持枪证',
 		stack = false,
